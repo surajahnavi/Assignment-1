@@ -1,0 +1,22 @@
+  <link rel="stylesheet" href="./css/style.css">
+  <main>
+    <h2>About Us</h2>
+    <p>
+      Welcome to the <strong>Placement Screening Portal</strong>. We aim to provide a seamless experience for students to 
+      manage their profiles and stay updated with the upcoming companies.
+    </p>
+    <p>
+      Our portal is designed with <em>user-friendliness</em> in mind. Students can easily <u>register</u>, <u>login</u>, 
+      and access their <u>dashboard</u> to view and update their details.
+    </p>
+    <p>
+      For any inquiries, please <a href="contact.html">contact us</a>.
+    </p>
+  </main>
+  <footer>
+    <section>
+      <p>All Rights are Reserved</p>
+    </section>
+  </footer>
+</body>
+</html>

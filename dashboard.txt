@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard</title>
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+<header>
+  <h1>Dashboard</h1>
+</header>
+<main>
+  <table>
+    <thead>
+      <tr>
+        <th>First Name</th>
+        <th>Last Name</th>
+        <th>Date of Birth</th>
+        <th>College</th>
+        <th>Degree</th>
+        <th>Year of Passing</th>
+        <th>Gmail</th>
+        <th>Phone</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Jahnavi</td>
+        <td>Sura</td>
+        <td>30-04-2005</td>
+        <td>Vignan</td>
+        <td>B.Tech</td>
+        <td>2026</td>
+        <td>surajahnavi608@gmail.com</td>
+        <td>7989683437</td>
+      </tr>
+      <tr>
+        <td>Bhumika</td>
+        <td>Lavu</td>
+        <td>31-07-2004</td>
+        <td>Vignan</td>
+        <td>B.Tech</td>
+        <td>2026</td>
+        <td>bhumikalavu2004@gmail.com</td>
+        <td>8919867965</td>
+      </tr>
+      <tr>
+        <td>Anusha</td>
+        <td>Mudragadda</td>
+        <td>29-10-2004</td>
+        <td>Vignan</td>
+        <td>B.Tech</td>
+        <td>2026</td>
+        <td>mudragaddaanusha02@gmail.com</td>
+        <td>8645239771</td>
+      </tr>
+      <tr>
+        <td>Prathyusha</td>
+        <td>Rayapudi</td>
+        <td>15-09-2004</td>
+        <td>Vignan</td>
+        <td>B.Tech</td>
+        <td>2026</td>
+        <td>rayapudiprathyusha79@gmail.com</td>
+        <td>9493773659</td>
+      </tr>
+    </tbody>
+  </table>
+</main>
+<footer>
+  <section>
+    <p>Placement Screening Portal 2024</p>
+  </section>
+</footer>
+</body>
+</html>

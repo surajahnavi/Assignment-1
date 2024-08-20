@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Placement Screening - Home</title>
+  <link rel="stylesheet" href="./css/style.css">
+  <style>
+    h1 {
+      background-color: rgb(107, 229, 242);
+      color: black;
+    }
+  </style>
+</head>
+<body>
+  <nav>
+    <ul>
+      <li><a href="./home.html">Home</a></li>
+      <li><a href="./Register.html">Register</a></li>
+      <li><a href="./login.html">Login</a></li>
+      <li><a href="./dashboard.html">Dashboard</a></li>
+      <li><a href="./aboutus.html">About Us</a></li>
+    </ul>
+  </nav>
+
+  <header>
+    <h1>Welcome to Placement Screening Portal</h1>
+  </header>
+  <main>
+    <button onclick="window.location.href='login.html'">Login</button>
+    <button onclick="window.location.href='register.html'">Register</button>
+  </main>
+  
+<footer>
+    <section>
+        <p>All Rights are Reserved</p>
+    </section>
+</footer>
+</body>
+</html>
